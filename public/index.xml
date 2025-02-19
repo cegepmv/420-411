@@ -3,9 +3,17 @@
   <channel>
     <title>Interface humain-machine</title>
     <link>https://cegepmv.github.io/420-411/index.html</link>
-    <description></description>
+    <description>This is your new home page.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 19 Feb 2025 12:59:05 -0500</lastBuildDate>
     <atom:link href="https://cegepmv.github.io/420-411/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Log</title>
+      <link>https://cegepmv.github.io/420-411/log/index.html</link>
+      <pubDate>Wed, 19 Feb 2025 12:59:05 -0500</pubDate>
+      <guid>https://cegepmv.github.io/420-411/log/index.html</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

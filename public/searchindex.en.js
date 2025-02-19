@@ -4,16 +4,16 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Categories",
-    "uri": "/420-411/categories/index.html"
+    "title": "Log",
+    "uri": "/420-411/log/index.html"
   },
   {
-    "breadcrumb": "",
+    "breadcrumb": "Interface humain-machine",
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Interface humain-machine",
-    "uri": "/420-411/index.html"
+    "title": "Categories",
+    "uri": "/420-411/categories/index.html"
   },
   {
     "breadcrumb": "Interface humain-machine",
