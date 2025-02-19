@@ -1,0 +1,4 @@
+baseURL = 'https://cegepmv.github.io/420-411'
+theme = 'hugo-theme-relearn'
+languageCode = 'en-us'
+title = 'Interface humain-machine'
